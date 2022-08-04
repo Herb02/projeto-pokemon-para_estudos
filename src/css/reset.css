@@ -1,0 +1,9 @@
+* {
+    margin: 0; /* Tira a margem de todos os items da página*/
+    padding: 0; /* Pesquisar */
+    box-sizing: border-box; /*Pesquisar*/    
+}
+
+ul{
+    list-style: none; /* Tira as bolinhas da lista */
+}
